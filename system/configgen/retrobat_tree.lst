@@ -103,6 +103,7 @@ emulators\dolphin-triforce\User\GameSettings
 emulators\dosbox
 emulators\duckstation
 emulators\flycast
+emulators\flycast\mappings
 emulators\fpinball
 emulators\gsplus
 emulators\hypseus
